@@ -11,18 +11,26 @@ This project applied a broad range of data engineering skills to analyze disaste
 
 `1. ETL Pipeline
 	i. Loads the datasets
+	
 	ii. Cleans the data
+	
 	iii. Stores in a SQLite database
 	
 `2. ML Pipeline
 	i. Loads the data from the SQLite database
+	
 	ii. Splits into training and test data
+	
 	iii. Builds an NLP and machine learning pipeline
+	
 	iv. Tunes model using GridSearchCV
+	
 	v. Outputs tesults on the test set
+	
 	vi. Exports final model as a pickle file
 	
  3. Flask Web App
+ 
  	Adds data visualizations using Plotly
 	
 ### Instructions:
