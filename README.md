@@ -11,9 +11,11 @@ This project applied a broad range of data engineering skills to analyze disaste
 
 1. **ETL Pipeline**
 
-	i. Loads the datasets
-	ii. Cleans the data
-	iii. Stores in a SQLite database
+	- Loads the datasets
+	
+	- Cleans the data
+	
+	- Stores in a SQLite database
 	
 2. **ML Pipeline**
 
