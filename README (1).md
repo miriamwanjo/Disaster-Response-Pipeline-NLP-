@@ -38,5 +38,7 @@ This project applied a broad range of data engineering skills to analyze disaste
 3. Go to http://0.0.0.0:3001/
 
 ### Web app Screenshots
+
+![alt text](https://github.com/miriamwanjo/Disaster-Response-Pipeline/blob/master/image.png/Disaster%202.PNG)
 	
 ![alt text](https://github.com/miriamwanjo/Disaster-Response-Pipeline/blob/master/image.png/Miriam%20Disaster%20response%20screenshot%201.PNG)
