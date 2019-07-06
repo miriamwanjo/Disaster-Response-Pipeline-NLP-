@@ -39,4 +39,4 @@ This project applied a broad range of data engineering skills to analyze disaste
 
 ### Web app Screenshots
 	
-![Optional Text](../master/myFolder/image.png)
+![alt text](https://github.com/miriamwanjo/Disaster-Response-Pipeline/blob/master/image.png/Miriam%20Disaster%20response%20screenshot%201.PNG)
