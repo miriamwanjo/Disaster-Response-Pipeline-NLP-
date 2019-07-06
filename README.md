@@ -2,12 +2,16 @@
 
 ### Project Overview
 This project applied a broad range of data engineering skills to analyze disaster data provided by Figure Eight. The dataset contains real messages sent during a disaster event and the premise of the project was to build a model for an API that can classify the messages. Some of the notable skills applied include:
+
 	- Creating ETL and ML pipelines
+	
 	- Writing clean and modular code
+	
 	- Building a web app that also displays visualizations
+	
 	- Use of Git and Github
 	
-### project Components
+### Project Components
 
 1. **ETL Pipeline**
 
