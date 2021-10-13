@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Disaster Response Pipeline Project - NLP & ML Pipeline
 
 ### Project Overview
 This project applied a broad range of data engineering skills to analyze disaster data provided by Figure Eight. The dataset contains real messages sent during a disaster event and the premise of the project was to build a model for an API that can classify the messages. Some of the notable skills applied include:
